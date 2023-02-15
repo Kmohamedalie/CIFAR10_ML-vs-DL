@@ -9,10 +9,9 @@ Computer vision; machine learning; deep learning; feature descriptor; hog; cifar
     In this paper we will do a comparative analysis of image recognition between machine learning using feature descriptions and support vector machine (svm) Classifier vs deep learning using convolutional neural networks (CNN), on CIFAR-10 dataset. The comparison will be based on the following aspects: data, accuracy, training time, hardware, features, interpretability.
 
 
-                             ![ML vs DL](![image](https://user-images.githubusercontent.com/63104472/219050937-a95cf1c8-0910-4599-b7b7-834e81e8b2af.png)
-)
+      ![ML vs DL](![image](https://user-images.githubusercontent.com/63104472/219050937-a95cf1c8-0910-4599-b7b7-834e81e8b2af.png))
 
-                             Figure 1: Machine learning vs deep learning    source: projectpro
+Figure 1: Machine learning vs deep learning    source: projectpro
 
 a. CIFAR-10 Description
     The CIFAR-10 dataset (Canadian Institute for Advanced Research, 10 classes) is a subset of 
