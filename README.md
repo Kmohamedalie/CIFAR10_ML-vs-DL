@@ -1,4 +1,4 @@
-# DTM Machine Learning Final project
+# DTM Machine Learning vs Deep Learning on Image Recognition
 
 ### 1. Introduction
 ### 2. Related Work
