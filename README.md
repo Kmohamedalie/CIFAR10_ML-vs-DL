@@ -1,4 +1,4 @@
-# DTM Machine Learning vs Deep Learning on Image Recognition
+# Machine Learning vs Deep Learning on Image Recognition
 <p style="text-align: center;">Ekin Yilmaz, Leonardo Ghiani, Mohamed Alie Kamara </p> <br/>
 <p style="text-align: center;">Instructor: <a href="https://www.unibo.it/sitoweb/guido.borghi">Guido Borghi</a> </p>
 <p style="text-align: center;"><a href="mailto:guido.borghi@unibo.it">Email: guido.borghi@unibo.it</a></p>
