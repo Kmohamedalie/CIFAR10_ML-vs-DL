@@ -34,14 +34,7 @@ Figure 3: Yunfei Lai CNN network                                                
 
 The overall result achieved in the testing set using SVM is 93.92% total accuracy and 98.85% using CNN, clearly demonstrating that deep learning is more suitable for modelling of image data because of its ability to extract features from two-dimensional image data automatically, unlike traditional machine learning methods which need subjective feature extraction to convert binary vectors into one-dimensional vectors.    
     However, Yunfei also take into consideration that more training time and resources are need for deep learning, but better prediction accuracy and generalization can be achieved [5]. 
-Figure 4 shows detailed summary of Yunfei Lai’s experiment.
-
-iopscience
-
-The overall result achieved in the testing set using SVM is 93.92% total accuracy and 98.85% using CNN, clearly demonstrating that deep learning is more suitable for modelling of image data because of its ability to extract features from two-dimensional image data automatically, unlike traditional machine learning methods which need subjective feature extraction to convert binary vectors into one-dimensional vectors.    
-    However, Yunfei also take into consideration that more training time and resources are need for deep learning, but better prediction accuracy and generalization can be achieved [5]. 
-Figure 4 shows detailed summary of Yunfei Lai’s experiment.
- 
+Figure 4 shows detailed summary of Yunfei Lai’s experiment. 
  ![image](https://user-images.githubusercontent.com/63104472/219052674-d50e8ae7-7e56-4644-9667-98c9331aedbb.png)
 
   Figure 4: Yunfei’s SVM and CNNs comparison                                            source:iopscience
@@ -99,6 +92,7 @@ Thanks to Professor Guido Borghi for his guidance and provision of initial code 
 
 ### Group organization
 L. Ghiani , E. Yilmaz: GitHub repository &  Latex
+
 Mohamed Alie Kamara: Jupyter Notebook
 
 ### References
