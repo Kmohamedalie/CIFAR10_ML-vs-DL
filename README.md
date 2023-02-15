@@ -138,10 +138,13 @@ Thanks to Professor Guido Borghi for his guidance and provision of initial code 
 [7] Scikit-learn, “Support vector machines”,  https://scikit-learn.org/stable/modules/svm.html 
 
 [8] Wikipedia, “Neocognitron”, https://en.wikipedia.org/wiki/Neocognitron
+
 [9] IBM, “What are convolutional neural networks?”, 
       https://www.ibm.com/topics/convolutional-neural-networks
+
 [10] IBM, “Types of convolutional neural networks”,
       https://www.ibm.com/topics/convolutional-neural-networks
+
 [11] Scikit-learn, “Support Vector Machine”
        
 
