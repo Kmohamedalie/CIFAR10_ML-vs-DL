@@ -4,7 +4,7 @@
 <p style="text-align: center;"><a href="mailto:guido.borghi@unibo.it">Email: guido.borghi@unibo.it</a></p>
 
 ### Practical Demo Websites
- <a href="https://adamharley.com/nn_vis/cnn/2d.html">2D fully-connected network visualization</a>
+ <a href="https://adamharley.com/nn_vis/cnn/2d.html">2D fully-connected network visualization</a><br/>
  <a href="https://deeplizard.com/resource/pavq7noze3">Max Pooling Operation in Neural Networks</a>
 
 ### Keywords
