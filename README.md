@@ -3,6 +3,8 @@
 <p style="text-align: center;">Instructor: <a href="https://www.unibo.it/sitoweb/guido.borghi">Guido Borghi</a> </p>
 <p style="text-align: center;"><a href="mailto:guido.borghi@unibo.it">Email: guido.borghi@unibo.it</a></p>
 
+### Practical Demo Websites
+ <a href="https://adamharley.com/nn_vis/cnn/2d.html">2D fully-connected network visualization</a>
 
 ### Keywords
 Computer vision; machine learning; deep learning; feature descriptor; <a href="https://github.com/topics/hog-features-extraction">hog</a>; <a href="https://www.cs.toronto.edu/~kriz/cifar.html">cifar-10</a>; <a href="https://en.wikipedia.org/wiki/MNIST_database">Mnist</a>; classification; <a href="https://scikit-image.org/">scikit-image</a>; <a href="https://tqdm.github.io/">tqdm</a>; <a href="https://opencv.org/">cv2</a>; <a href="https://www.ibm.com/topics/convolutional-neural-networks">convolutional neural networks</a>; <a href="https://it.wikipedia.org/wiki/Macchine_a_vettori_di_supporto">SVM</a>.
