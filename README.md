@@ -5,7 +5,9 @@
 
 ### Practical Demo Websites
  <a href="https://adamharley.com/nn_vis/cnn/2d.html">2D fully-connected network visualization</a><br/>
+ <a href="https://cs231n.github.io/convolutional-networks/">Convolution Demo</a>
  <a href="https://deeplizard.com/resource/pavq7noze3">Max Pooling Operation in Neural Networks</a>
+ 
 
 ### Keywords
 Computer vision; machine learning; deep learning; feature descriptor; <a href="https://github.com/topics/hog-features-extraction">hog</a>; <a href="https://www.cs.toronto.edu/~kriz/cifar.html">cifar-10</a>; <a href="https://en.wikipedia.org/wiki/MNIST_database">Mnist</a>; classification; <a href="https://scikit-image.org/">scikit-image</a>; <a href="https://tqdm.github.io/">tqdm</a>; <a href="https://opencv.org/">cv2</a>; <a href="https://www.ibm.com/topics/convolutional-neural-networks">convolutional neural networks</a>; <a href="https://it.wikipedia.org/wiki/Macchine_a_vettori_di_supporto">SVM</a>.
