@@ -103,7 +103,7 @@ Figure 8: Model architecture                    source: project notebook
 
                            
 ### 4. Results
-The SVM model had a validation accuracy of 57.01% on the training set and 57.2% on the test set, unlike CNN which had 78.12% on the training set and 75.48% on the test set, clearly showing why svm are not the best for 2-dimensional data. The CNN performance was incredibly good with image recognition. Computational time for machine learning (SVM) was 4.7hrs unlike deep learning (CNN) which was 1.26hrs given the same hardware resources (Google Colab TPU with high RAM of 35.2GB), breathing the myth that it takes more time to train and develop CNN models. A summary of our analysis is shown below in Figure 8. 
+The SVM model had a validation accuracy of 57.01% on the training set and 57.2% on the test set, unlike CNN which had 78.12% on the training set and 75.48% on the test set, clearly showing why svm are not the best for 2-dimensional data. The CNN performance was incredibly good with image recognition. Computational time for machine learning (SVM) was 4.7hrs unlike deep learning (CNN) which was 1.26hrs given the same hardware resources (Google Colab TPU with high RAM of 35.2GB), breaking the myth that it takes more time to train and develop CNN models. A summary of our analysis is shown below in Figure 8. 
 
 
 ![image](https://user-images.githubusercontent.com/63104472/219054223-fffa2e72-997e-4790-bcce-9d144b32d82b.png)
