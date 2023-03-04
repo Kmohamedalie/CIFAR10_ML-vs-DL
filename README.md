@@ -120,7 +120,7 @@ It is true that computer vision is in all aspects of our daily lives from the sm
 Thanks to Professor Guido Borghi for his guidance and provision of initial code templates on which this paper was built on.
 
 ### Group organization
-- GitHub repository &  Latex : L. Ghiani , E. Yilmaz
+- GitHub repository &  Markdown : L. Ghiani , E. Yilmaz
 - Jupyter Notebook : Mohamed Alie Kamara
 
 
